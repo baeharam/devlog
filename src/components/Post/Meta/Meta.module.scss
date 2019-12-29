@@ -1,0 +1,10 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.meta {
+  &__date {
+    text-align: center;
+    color: rgb(131, 130, 130);
+  }
+
+}

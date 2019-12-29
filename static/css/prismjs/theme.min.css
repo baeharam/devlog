@@ -1,0 +1,22 @@
+/**
+ * prism.js tomorrow night eighties for JavaScript, CoffeeScript, CSS and HTML
+ * Based on https://github.com/chriskempson/tomorrow-theme
+ * @author Rose Pritchard
+ * @custoimized by Jbee
+ */
+
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
+
+code {
+  font-family: "Fira Code"
+}
+
+/* Inline code */
+:not(pre) > code {
+  padding: 0.1em 0.6em;
+  border-radius: 0.2em;
+  border: 1px solid rgb(158, 158, 158);
+  white-space: normal;
+  background: #fff;
+  color: blueviolet;
+}
