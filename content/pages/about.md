@@ -1,13 +1,50 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+어떤 문제를 만나든지 낙담하지 않고 그 문제를 해결하려고 고군분투하는 개발자입니다. 알고리즘 공부를 좋아하며 현재는 React를 공부하고 있습니다.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### 교육
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+* 한동대학교 전산전자공학부 학사 : 2014.03 ~ 2020.02
+* 전공평점: **4.25**
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### 수상
+
+* 2019 상반기 대구/경북권 프로그래밍 경진대회 **장려상**
+* 2019 ACM-ICPC Asia Seoul Regional Contest **20th place** (GiveMeCorrect)
+
+### 활동
+
+* 한동대학교 알고리즘 학회, "HPS(Handong Problem Solvers)" **설립 및 운영**
+* 한동대학교 전산전자공학부 동아리, "슬기짜기" **회장**
+* 한동대학교 소프트웨어 중심대학, 포항동지여자고등학교 **소프트웨어 교육봉사**
+
+### 프로젝트
+
+#### 레드벨벳 팬사이트 (2019.07 ~ 2019.10)
+
+[GITHUB](https://github.com/baeharam/Redvelvet-Fansite)
+
+HTML,CSS,JS 와 Webpack을 활용하여 레드벨벳을 소개하는 팬사이트를 만들었습니다.
+
+<img src="/media/about/redvelvet.png">
+
+#### 채팅 어플 - 동물의 사생활 (2018.07 ~ 2019.07)
+
+[GITHUB](https://github.com/baeharam/Privacy-of-Animal)
+
+Flutter와 Firebase 및 Naver Clova API, Kakao Vision API를 활용하여 가상 프로필을 통해 채팅하는 어플을 만들었습니다.
+
+<img src="/media/about/flutter-home.png" width="300px" style="display: block; margin: 0 auto;">
+
+
+
+
+
+
+
+
+
