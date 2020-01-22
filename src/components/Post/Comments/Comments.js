@@ -2,6 +2,7 @@
 import React from 'react';
 import ReactDisqusComments from 'react-disqus-comments';
 import { useSiteMetadata } from '../../../hooks';
+import ReactUtterences from 'react-utterances';
 
 type Props = {
   postTitle: string,
@@ -11,16 +12,13 @@ type Props = {
 const Comments = ({ postTitle, postSlug }: Props) => {
   const { url, disqusShortname } = useSiteMetadata();
 
-  if (!disqusShortname) {
-    return null;
-  }
+  const GITHUB_NAME = 'baeharam';
+  const GITHUB_REPO = 'blog-comments';
 
   return (
-    <ReactDisqusComments
-      shortname={disqusShortname}
-      identifier={postTitle}
-      title={postTitle}
-      url={url + postSlug}
+    <ReactUtterences 
+      repo={`${GITHUB_NAME}/${GITHUB_REPO}`}
+      type='pathname'
     />
   );
 };

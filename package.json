@@ -82,6 +82,7 @@
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
+    "react-utterances": "^0.6.4",
     "typeface-noto-sans": "0.0.72"
   },
   "devDependencies": {
