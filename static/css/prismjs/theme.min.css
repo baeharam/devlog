@@ -13,10 +13,10 @@ code {
 
 /* Inline code */
 :not(pre) > code {
-  padding: 0.1em 0.6em;
+  padding: 0.1em 0.3em;
   border-radius: 0.2em;
-  border: 1px solid rgb(158, 158, 158);
+  border: 1px solid #f03e3e;
   white-space: normal;
-  background: #fff;
-  color: blueviolet;
+  background: #fff5f5;
+  color: #f03e3e;
 }
